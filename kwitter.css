@@ -1,0 +1,18 @@
+.card {
+   border: 5px solid burlywood !important;
+   background-color: rgb(220, 157, 75) !important;
+   text-align: center;
+   font-family: 'Indie Flower', cursive;
+}
+
+body {
+   background-color: darksalmon !important;
+   display: block !important;
+   margin-left: auto !important;
+   margin-right: auto !important;
+}
+
+#login {
+   width: 90px !important;
+   height: 50px !important;
+}
