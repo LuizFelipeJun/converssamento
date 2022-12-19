@@ -1,11 +1,11 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyCaZ62jLT4HFygJcSMEKzMH6rC_RS3d3ew",
-  authDomain: "kwitter-insano-2.firebaseapp.com",
-  databaseURL: "https://kwitter-insano-2-default-rtdb.firebaseio.com",
-  projectId: "kwitter-insano-2",
-  storageBucket: "kwitter-insano-2.appspot.com",
-  messagingSenderId: "378623351061",
-  appId: "1:378623351061:web:5f21ff29aba6e38379f11c"
+  apiKey: "AIzaSyAa5Nv5_I60m1B3f9wPzK1W1sY0S4KsQjc",
+  authDomain: "twitter-crackeado.firebaseapp.com",
+  databaseURL: "https://twitter-crackeado-default-rtdb.firebaseio.com",
+  projectId: "twitter-crackeado",
+  storageBucket: "twitter-crackeado.appspot.com",
+  messagingSenderId: "682928763708",
+  appId: "1:682928763708:web:7babe582fe8bac1afc2439"
 };
  
 firebase.initializeApp(firebaseConfig);
