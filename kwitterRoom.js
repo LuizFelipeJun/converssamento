@@ -19,7 +19,7 @@ function addSala() {
     purpose: "adicionando nome da sala"
   });
   localStorage.setItem("name", nomeDaSala);
-  window.location = "kwitterPage.html"
+  window.location = "kwitterPage.html";
 }
 
 function getDados() {
@@ -40,6 +40,6 @@ function redirecionarParaONomeDaSala(nomeDaSala) {
 
 function logout_button() {
   localStorage.removeItem("nomeUsuario");
-  localStorage.removeItem("nomeDasala");
+  localStorage.removeItem("nomeDaSala");
   window.location = "index.html";
 }
